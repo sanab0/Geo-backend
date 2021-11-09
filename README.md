@@ -23,5 +23,6 @@ npm install : Cette instruction permet d’installer les dépendances nécessair
 Pour travailler avec les fichiers shp nous avons eu recours au shpjs package. 
 
 Maintenant, il ne reste que de tester l’application en utilisant la commande suivante  
-
-> npm start  
+```
+npm start  
+```
