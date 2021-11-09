@@ -16,6 +16,7 @@ Cette application offre la possibilité de :
 - #### [React](https://fr.reactjs.org/)
 - #### [OpenStreetMap](https://www.openstreetmap.org/#map=6/33.962/9.558)
 - #### [Leaflet](https://leafletjs.com/)
+- #### [shpjs](https://www.npmjs.com/package/sh)
 
 
 # Installation
