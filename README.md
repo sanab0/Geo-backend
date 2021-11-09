@@ -10,5 +10,14 @@ Cette application offre la possibilité de :
 -importer et consulter  des fichiers shp  
 
 -supprimer des fichiers shp 
-#Installation
+
+# Installation
+
+# # Installer nodejs 
+
+## Installer le code source sur votre machine  
+
+## Installer les dépendances  
+
+npm install   
 
