@@ -13,9 +13,9 @@ Cette application offre la possibilité de :
 
 # Installation
 
-## Installer nodejs 
+Installer nodejs 
 
-## Installer le code source sur votre machine  
+#### Installer le code source sur votre machine  
 
 ## Installer les dépendances  
 
