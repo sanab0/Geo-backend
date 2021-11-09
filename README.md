@@ -12,8 +12,10 @@ Cette application offre la possibilité de :
 -supprimer des fichiers shp 
 # Environnement du travail 
 - #### [Node.js](https://nodejs.org/en/)
--
--
+- #### [React](https://fr.reactjs.org/)
+- #### [OpenStreetMap](https://www.openstreetmap.org/#map=6/33.962/9.558)
+- #### [Leaflet](https://leafletjs.com/)
+
 
 # Installation
 
