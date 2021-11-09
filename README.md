@@ -10,3 +10,5 @@ Cette application offre la possibilité de :
 -importer et consulter  des fichiers shp  
 
 -supprimer des fichiers shp 
+#Installation
+
