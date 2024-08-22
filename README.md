@@ -1,6 +1,6 @@
 ![254608546_411792417262315_8840661655657284089_n](https://user-images.githubusercontent.com/93826690/140927496-e5e231b8-cde7-4a45-afd3-e97d79b9f0ff.png)
 
-# Geo-backend edit
+# Geo-backend
 
 Ge backend est une application web qui permet aux utilisateurs de gérer des données spatiales en important des fichiers shp.
 
